@@ -4,6 +4,6 @@ package generator
 type JSServerlessGenerator struct{}
 
 // Generate generates JavaScript code from workflow specification.
-func (compiler *JSServerlessGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
+func (generator *JSServerlessGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
 	return "", nil
 }

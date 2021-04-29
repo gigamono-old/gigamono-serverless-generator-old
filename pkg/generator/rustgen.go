@@ -4,6 +4,6 @@ package generator
 type RustServerlessGenerator struct{}
 
 // Generate generates Rust code from workflow specification.
-func (compiler *RustServerlessGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
+func (generator *RustServerlessGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
 	return "", nil
 }
