@@ -1,8 +1,0 @@
-{
-  "name": "gigamono-serverless-generator",
-  "version": "0.0.1",
-  "main": "index.js",
-  "repository": "https://github.com/gigamono/gigamono-serverless-generator",
-  "author": "Stephen <appcypher@outlook.com>",
-  "license": "GPLv3.0"
-}
