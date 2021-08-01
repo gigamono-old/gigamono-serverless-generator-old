@@ -10,7 +10,12 @@
 :warning:  This project is experimental and in active development  :warning:
 </p>
 
+Planned Generators 
 
-Javascript Gen
-Rust Gen
+- Javascript Gen
+    - Written in Javascript
+   
+- Rust Gen
+    - Written in Go
     - Might have to problems with the borrow checker
+    - Using [rustc as a library](https://brson.github.io/2014/07/21/embedding-rustc)
